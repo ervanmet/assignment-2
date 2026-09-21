@@ -32,7 +32,7 @@ This project is a simple MVC-style web application that demonstrates how content
 
 Add your Web 4 deployment link here:
 
-- Web 4 URL: [Insert Web 4 link here]
+- Web 4 URL: [https://in-info-web4.luddy.indianapolis.iu.edu/~ervanmet/assignment%202/]
 
 ## GitHub Repository
 
