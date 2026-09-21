@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    min-height: 100%;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    color: #222;
+    background-color: #f5f3f0;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}

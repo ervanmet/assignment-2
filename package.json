@@ -1,0 +1,22 @@
+{
+  "name": "assignment-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "live-server",
+    "compile-sass": "sass scss/styles.scss css/styles.css -w --no-source-map",
+    "sass": "sass scss/styles.scss css/styles.css --watch",
+    "start": "node app/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "sass": "^1.104.1"
+  }
+}
